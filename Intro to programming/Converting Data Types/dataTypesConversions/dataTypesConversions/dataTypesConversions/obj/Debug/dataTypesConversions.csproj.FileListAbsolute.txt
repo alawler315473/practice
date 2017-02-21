@@ -1,0 +1,12 @@
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\DataTypes\dataTypesConversions\dataTypesConversions\bin\Debug\dataTypesConversions.exe.config
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\DataTypes\dataTypesConversions\dataTypesConversions\bin\Debug\dataTypesConversions.exe
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\DataTypes\dataTypesConversions\dataTypesConversions\bin\Debug\dataTypesConversions.pdb
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\DataTypes\dataTypesConversions\dataTypesConversions\obj\Debug\dataTypesConversions.csprojResolveAssemblyReference.cache
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\DataTypes\dataTypesConversions\dataTypesConversions\obj\Debug\dataTypesConversions.exe
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\DataTypes\dataTypesConversions\dataTypesConversions\obj\Debug\dataTypesConversions.pdb
+H:\Year 2\Intro to programming\Converting Data Types\dataTypesConversions\dataTypesConversions\dataTypesConversions\bin\Debug\dataTypesConversions.exe.config
+H:\Year 2\Intro to programming\Converting Data Types\dataTypesConversions\dataTypesConversions\dataTypesConversions\obj\Debug\dataTypesConversions.exe
+H:\Year 2\Intro to programming\Converting Data Types\dataTypesConversions\dataTypesConversions\dataTypesConversions\obj\Debug\dataTypesConversions.pdb
+H:\Year 2\Intro to programming\Converting Data Types\dataTypesConversions\dataTypesConversions\dataTypesConversions\obj\Debug\dataTypesConversions.csprojResolveAssemblyReference.cache
+H:\Year 2\Intro to programming\Converting Data Types\dataTypesConversions\dataTypesConversions\dataTypesConversions\bin\Debug\dataTypesConversions.exe
+H:\Year 2\Intro to programming\Converting Data Types\dataTypesConversions\dataTypesConversions\dataTypesConversions\bin\Debug\dataTypesConversions.pdb

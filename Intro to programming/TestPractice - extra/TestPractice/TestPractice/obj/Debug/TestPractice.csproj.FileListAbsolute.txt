@@ -1,0 +1,6 @@
+H:\Year 2\Intro to programming\TestPractice - extra\TestPractice\TestPractice\bin\Debug\TestPractice.exe.config
+H:\Year 2\Intro to programming\TestPractice - extra\TestPractice\TestPractice\bin\Debug\TestPractice.exe
+H:\Year 2\Intro to programming\TestPractice - extra\TestPractice\TestPractice\bin\Debug\TestPractice.pdb
+H:\Year 2\Intro to programming\TestPractice - extra\TestPractice\TestPractice\obj\Debug\TestPractice.csprojResolveAssemblyReference.cache
+H:\Year 2\Intro to programming\TestPractice - extra\TestPractice\TestPractice\obj\Debug\TestPractice.exe
+H:\Year 2\Intro to programming\TestPractice - extra\TestPractice\TestPractice\obj\Debug\TestPractice.pdb

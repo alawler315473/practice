@@ -1,0 +1,17 @@
+
+Add the following orders, and associated order Details.  Do not hardcode any of the id values.
+
+Create a transaction where 	Alfreds Futterkiste orders 3 of each of the Chang,Chais while working with Andrew Fuller, and shipped by United Package.  (multiple commands)
+
+insert into [orderDetails] (orderDetailsID,orderID,productID,quanity)
+values()
+
+
+Create a transaction where 	Around the Horn orders 1 Ikura, 2 Queso Cabrales, 3 Tofu, 4 Pavlova,  while working with Andrew Fuller, and shipped by United Package.  (multiple commands)
+
+Create a transaction where 	Around the Horn orders 1 of every thing that cost less than 15 dollars,  while working with Janet Leverling, and shipped by speedy express.  (multiple commands)
+
+
+Create a transaction where 	consolidated holdings orders 3 of every thing that starts with the letter C,  while working with Janet Leverling, and shipped by speedy express.  (multiple commands)
+
+UP = 2, AF = 1, ATH = 4,

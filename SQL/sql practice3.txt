@@ -1,0 +1,42 @@
+
+query all entries that contain "an" in the ContactName in the customer table
+SELECT * FROM [Customers]
+where contactName like ('an%'); 
+
+
+query all employees with "BS" or "BSC" or "BA" in the description and sort them by last names
+SELECT * FROM [Employees]
+where NOTES like '%BS%'or Notes Like'%BSC%' or Notes Like'%BA%'
+order by lastName;
+
+
+query all products where the price is between 20 and 30.
+SELECT * FROM [Products]
+where price between 20 and 30;
+
+
+query all supplierNames that end with "Ltd."
+SELECT * FROM [Suppliers]
+where suppliers.supplierName like '%Ltd.'
+ 
+
+query all entries that do not contain the the following letters "a","n" in the ContactName in the customer table
+SELECT * FROM [Customers]
+where customers.contactName not like '%a%'
+and customers.contactName not like '%n%'
+ 
+
+query all customerNames who worked with employee whose first name starts with "M"
+SELECT distinct firstName FROM customers,orders,employees
+where customers.customerID == orders.customerID
+and orders.employeeID == employees.employeeID
+and employees.firstName like 'M%'     
+  
+
+query all customers who bought a Chef Anton's product
+
+SELECT distinct customerName FROM Products,Customers,Orders,Suppliers,OrderDetails
+where suppliers.supplierID == products.supplierID
+and products.productID == orderDetails.productID
+and orderDetails.orderID == orders.orderID
+and orders.customerID == customers.customerID

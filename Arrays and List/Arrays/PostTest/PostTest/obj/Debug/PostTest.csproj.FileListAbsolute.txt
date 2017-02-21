@@ -1,0 +1,6 @@
+H:\2nd Year\Arrays and List\Arrays\PostTest\PostTest\bin\Debug\PostTest.exe.config
+H:\2nd Year\Arrays and List\Arrays\PostTest\PostTest\bin\Debug\PostTest.exe
+H:\2nd Year\Arrays and List\Arrays\PostTest\PostTest\bin\Debug\PostTest.pdb
+H:\2nd Year\Arrays and List\Arrays\PostTest\PostTest\obj\Debug\PostTest.csprojResolveAssemblyReference.cache
+H:\2nd Year\Arrays and List\Arrays\PostTest\PostTest\obj\Debug\PostTest.exe
+H:\2nd Year\Arrays and List\Arrays\PostTest\PostTest\obj\Debug\PostTest.pdb

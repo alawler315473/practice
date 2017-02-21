@@ -1,0 +1,6 @@
+H:\Year 2\Procedural programming\Conditionals\Clock\Clock\Clock\bin\Debug\Clock.exe.config
+H:\Year 2\Procedural programming\Conditionals\Clock\Clock\Clock\bin\Debug\Clock.exe
+H:\Year 2\Procedural programming\Conditionals\Clock\Clock\Clock\bin\Debug\Clock.pdb
+H:\Year 2\Procedural programming\Conditionals\Clock\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+H:\Year 2\Procedural programming\Conditionals\Clock\Clock\Clock\obj\Debug\Clock.exe
+H:\Year 2\Procedural programming\Conditionals\Clock\Clock\Clock\obj\Debug\Clock.pdb

@@ -1,0 +1,2 @@
+H:\IntoToProgramming\DataTypesDebug\DataTypesDebug\bin\Debug\DataTypesDebug.exe.config
+H:\Year 2\Intro to programming\Data Types\DataTypesDebug\DataTypesDebug\bin\Debug\DataTypesDebug.exe.config

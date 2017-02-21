@@ -1,0 +1,6 @@
+H:\Year 2\Procedural programming\Conditionals\TestAverage\TestAverage\bin\Debug\TestAverage.exe.config
+H:\Year 2\Procedural programming\Conditionals\TestAverage\TestAverage\bin\Debug\TestAverage.exe
+H:\Year 2\Procedural programming\Conditionals\TestAverage\TestAverage\bin\Debug\TestAverage.pdb
+H:\Year 2\Procedural programming\Conditionals\TestAverage\TestAverage\obj\Debug\TestAverage.csprojResolveAssemblyReference.cache
+H:\Year 2\Procedural programming\Conditionals\TestAverage\TestAverage\obj\Debug\TestAverage.exe
+H:\Year 2\Procedural programming\Conditionals\TestAverage\TestAverage\obj\Debug\TestAverage.pdb

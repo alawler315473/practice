@@ -1,0 +1,6 @@
+H:\Year 2\Intro to programming\End Of Unit Stuff\IntroPost Test\IntroPost Test\bin\Debug\IntroPost Test.exe.config
+H:\Year 2\Intro to programming\End Of Unit Stuff\IntroPost Test\IntroPost Test\bin\Debug\IntroPost Test.exe
+H:\Year 2\Intro to programming\End Of Unit Stuff\IntroPost Test\IntroPost Test\bin\Debug\IntroPost Test.pdb
+H:\Year 2\Intro to programming\End Of Unit Stuff\IntroPost Test\IntroPost Test\obj\Debug\IntroPost Test.csprojResolveAssemblyReference.cache
+H:\Year 2\Intro to programming\End Of Unit Stuff\IntroPost Test\IntroPost Test\obj\Debug\IntroPost Test.exe
+H:\Year 2\Intro to programming\End Of Unit Stuff\IntroPost Test\IntroPost Test\obj\Debug\IntroPost Test.pdb

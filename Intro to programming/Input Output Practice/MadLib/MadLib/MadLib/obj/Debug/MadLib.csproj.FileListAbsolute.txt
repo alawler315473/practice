@@ -1,0 +1,7 @@
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\MadLib\MadLib\bin\Debug\MadLib.exe.config
+H:\Year 2\Intro to programming\Input Output Practice\MadLib\MadLib\MadLib\bin\Debug\MadLib.exe.config
+H:\Year 2\Intro to programming\Input Output Practice\MadLib\MadLib\MadLib\bin\Debug\MadLib.exe
+H:\Year 2\Intro to programming\Input Output Practice\MadLib\MadLib\MadLib\bin\Debug\MadLib.pdb
+H:\Year 2\Intro to programming\Input Output Practice\MadLib\MadLib\MadLib\obj\Debug\MadLib.csprojResolveAssemblyReference.cache
+H:\Year 2\Intro to programming\Input Output Practice\MadLib\MadLib\MadLib\obj\Debug\MadLib.exe
+H:\Year 2\Intro to programming\Input Output Practice\MadLib\MadLib\MadLib\obj\Debug\MadLib.pdb

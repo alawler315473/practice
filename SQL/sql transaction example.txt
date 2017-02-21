@@ -1,0 +1,36 @@
+insert into orders(customerID,employeeID,shipperid)
+// creating orders entry
+select customerid, employeeid, shipperid
+from customers,employees,shippers
+where customername =="Alfreds Futterkiste"
+and firstname == "Andrew" and lastname == "Fuller"
+and shippername == "Federal Shipping"
+
+//adding order date
+update orders 
+set orderdate = "2017-02-15"
+where orderdate is null
+ 
+ //create temp table to store all of the details for order we are working on
+create table Temp (orderid,productid,quantity)
+ 
+ 
+ ////Repeat next 3 steps for each product
+ //create 1 entry for one product into order table to be filled out in next step
+ insert into temp(orderid)
+select orderid from orders
+where orderid not in (select orderid from orderdetails)
+
+//add the product ID of the product purchased
+update temp 
+set productID = (select productid from products where productname == "Sasquatch Ale")
+where productID is null
+
+//update the amount of said product purchased
+ update temp 
+set quantity = 9000
+where productID =  (select productid from products where productname == "Sasquatch Ale")
+
+// add the temp table into orderdetails
+insert into orderdetails (orderid, productid,quantity)
+select orderid,productid,quantity from temp

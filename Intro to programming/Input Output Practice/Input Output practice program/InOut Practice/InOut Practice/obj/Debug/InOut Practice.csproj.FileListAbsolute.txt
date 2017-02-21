@@ -1,0 +1,6 @@
+H:\Year 2\Intro to programming\Input Output Practice\Input Output practice program\InOut Practice\InOut Practice\bin\Debug\InOut Practice.exe.config
+H:\Year 2\Intro to programming\Input Output Practice\Input Output practice program\InOut Practice\InOut Practice\bin\Debug\InOut Practice.exe
+H:\Year 2\Intro to programming\Input Output Practice\Input Output practice program\InOut Practice\InOut Practice\bin\Debug\InOut Practice.pdb
+H:\Year 2\Intro to programming\Input Output Practice\Input Output practice program\InOut Practice\InOut Practice\obj\Debug\InOut Practice.exe
+H:\Year 2\Intro to programming\Input Output Practice\Input Output practice program\InOut Practice\InOut Practice\obj\Debug\InOut Practice.pdb
+H:\Year 2\Intro to programming\Input Output Practice\Input Output practice program\InOut Practice\InOut Practice\obj\Debug\InOut Practice.csprojResolveAssemblyReference.cache

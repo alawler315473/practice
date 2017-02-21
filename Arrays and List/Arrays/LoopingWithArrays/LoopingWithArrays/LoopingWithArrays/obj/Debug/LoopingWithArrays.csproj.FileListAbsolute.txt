@@ -1,0 +1,6 @@
+H:\2nd Year\Arrays and List\intro to Arrays\LoopingWithArrays\LoopingWithArrays\LoopingWithArrays\bin\Debug\LoopingWithArrays.exe.config
+H:\2nd Year\Arrays and List\intro to Arrays\LoopingWithArrays\LoopingWithArrays\LoopingWithArrays\bin\Debug\LoopingWithArrays.exe
+H:\2nd Year\Arrays and List\intro to Arrays\LoopingWithArrays\LoopingWithArrays\LoopingWithArrays\bin\Debug\LoopingWithArrays.pdb
+H:\2nd Year\Arrays and List\intro to Arrays\LoopingWithArrays\LoopingWithArrays\LoopingWithArrays\obj\Debug\LoopingWithArrays.csprojResolveAssemblyReference.cache
+H:\2nd Year\Arrays and List\intro to Arrays\LoopingWithArrays\LoopingWithArrays\LoopingWithArrays\obj\Debug\LoopingWithArrays.exe
+H:\2nd Year\Arrays and List\intro to Arrays\LoopingWithArrays\LoopingWithArrays\LoopingWithArrays\obj\Debug\LoopingWithArrays.pdb

@@ -1,0 +1,3 @@
+H:\2nd Year\Arrays and List\intro to Arrays\EndOfArrays\IntroToListAssin\IntroToListAssin\bin\Debug\IntroToListAssin.exe.config
+H:\2nd Year\Arrays and List\intro to Arrays\EndOfArrays\IntroToListAssin\IntroToListAssin\obj\Debug\IntroToListAssin.exe
+H:\2nd Year\Arrays and List\intro to Arrays\EndOfArrays\IntroToListAssin\IntroToListAssin\obj\Debug\IntroToListAssin.pdb

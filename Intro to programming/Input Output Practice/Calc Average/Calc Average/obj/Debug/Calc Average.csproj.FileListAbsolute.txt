@@ -1,0 +1,6 @@
+H:\Year 2\Intro to programming\Input Output Practice\Calc Average\Calc Average\bin\Debug\Calc Average.exe.config
+H:\Year 2\Intro to programming\Input Output Practice\Calc Average\Calc Average\bin\Debug\Calc Average.exe
+H:\Year 2\Intro to programming\Input Output Practice\Calc Average\Calc Average\bin\Debug\Calc Average.pdb
+H:\Year 2\Intro to programming\Input Output Practice\Calc Average\Calc Average\obj\Debug\Calc Average.csprojResolveAssemblyReference.cache
+H:\Year 2\Intro to programming\Input Output Practice\Calc Average\Calc Average\obj\Debug\Calc Average.exe
+H:\Year 2\Intro to programming\Input Output Practice\Calc Average\Calc Average\obj\Debug\Calc Average.pdb

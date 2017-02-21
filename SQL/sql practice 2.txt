@@ -1,0 +1,38 @@
+delete entries in the customer table where the customer was from Mexico
+delete FROM [Customers]
+where customers.city == 'Mexico'
+
+
+delete "Robert King" from the employees table
+delete FROM [Employees]
+where employees.lastName == 'King'
+and employees.firstName == 'Robert'
+
+
+insert "David Baker" into the employee table (fill in the rest of the fields as you see fit)
+insert into [Employees] (lastName, firstName)
+values ('Baker','David')
+
+update all customers that live in USA to be from Mason.
+update [Customers]
+set city == 'Mason'
+where country == 'USA' 
+
+
+add 2 new products to the product table
+insert into [Products] (productName,supplierid,categoryid)
+values ('Pancakes',1,1)
+insert into [Products] (productName,supplierid,categoryid)
+values ('Waffles',1,1)
+
+
+Create a transaction where Alfreds Futterkiste orders 3 of each of the above 2 new products while working with Andrew Fuller, and shipped by United Package.  (multiple commands)
+
+insert into [orderDetails] (orderDetailID,orderID,productID,quantity)
+values (519,10444,78,3)
+
+insert into [orders](orderID,customerID,employeeID,orderDate,shipperID)
+values (10444,1,2,1999-4-7,2)
+
+insert into [orderDetails] (orderDetailID,orderID,productID,quantity)
+values (520,10445,79,3)

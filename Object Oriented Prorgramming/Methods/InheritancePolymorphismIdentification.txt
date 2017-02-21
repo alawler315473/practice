@@ -1,0 +1,79 @@
+What does the following function calls print out for objects of the corresponding classes?
+If the method does not exist for the class, say N/A.
+
+The Animal class is done as an example
+
+Animal:
+	MakeSound: "Grrrr"
+	SeeLaser: N/A
+	PlayFetch: N/A
+	
+Cat:
+	MakeSound: "Meow"
+	PlayFetch: N/A
+	LayOnLap: N/A
+	BeHappy: "purrr"
+	SeeLaser:"*cat pounces*"
+	
+OrangeTabby
+	MakeSound: "Meow!"
+	PlayFetch: N/A
+	LayOnLap: "*cuddles on owner lap*"
+	BeHappy: "*Takes a cat nap*"
+	SeeLaser: "*Cat Pounces*"
+	DunkFaceInMilk: N/A
+	
+RussianBlue
+	MakeSound: "Hiss"
+	PlayFetch: N/A
+	LayOnLap: N/A
+	BeHappy: "purrr"
+	SeeLaser: "*Cat Pounces*"
+	DunkFaceInMilk: N/A
+	
+Himalayan
+	MakeSound: "Meow!"
+	PlayFetch: N/A
+	LayOnLap: N/A
+	BeHappy: "purrr"
+	SeeLaser: "Ignore"
+	DunkFaceInMilk: "*face gets covered in milk*"
+ 	
+Garfield
+	MakeSound: mmmm lasagna
+	PlayFetch: N/A
+	LayOnLap: *cuddles up on owner's lap*
+	BeHappy: "purrr"
+	SeeLaser: *goes to sleep*
+	DunkFaceInMilk: N/A
+	
+Dog
+	MakeSound: Woof
+	PlayFetch: *chases ball 5 times then quits*
+	FindDrugs: N/A
+	SeeLaser: N/A
+	
+GermanShepard
+	MakeSound: "Woof!"
+	PlayFetch: *chases ball 5 times then quits*
+	FindDrugs: *searches for Drugs on criminals*
+	SeeLaser: N/A
+
+Bulldog
+	MakeSound: *panting and snoring sounds* 
+	PlayFetch: *watches ball and goes to sleep*
+	FindDrugs: N/A
+	SeeLaser: N/A
+	
+BostonTerrier
+	MakeSound: "Woof!"
+	PlayFetch: *chases ball 5000 times until your arm falls off*
+	FindDrugs: N/A
+	SeeLaser: N/A
+	
+DogMeat
+	MakeSound: "Woof!"
+	PlayFetch: *comes back w/ ghoul arm*
+	FindDrugs: *returns w/ stimpack
+	SeeLaser: N/A
+	

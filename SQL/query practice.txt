@@ -1,0 +1,33 @@
+query all entries in the customer table (91 entries)
+SELECT * FROM [Customers]
+
+query all employees and sort them by last names (10 entries)
+SELECT lastname FROM [Employees]
+order by employees.lastname
+
+query all customer names who live in Germany (11 entries)
+SELECT country FROM [Customers]
+where customers.country == "Germany"
+
+query all supplierNames that are in the United States. (4 entries)
+SELECT country FROM [Suppliers]
+where suppliers.country == "USA"
+
+query all contactNames,Address,city  in France (11 entries)
+SELECT address,contactName,city,country FROM [Customers]
+where customers.country == "France"
+
+query all customerNames who worked with Margaret Peacock  (31 entries)
+Select distinct customers.customerName
+FRom customers,orders,employees
+where employees.firstname == "Margaret" and employees.lastname == "Peacock"
+and employees.employeeID == orders.employeeID and customers.customerID == orders.customerID
+order by customers.customerName
+
+query all customers who bought "Aniseed Syrup" (2 results)
+SELECT customerName 
+FROM customers,orders,orderDetails,products
+where productName ==  "Aniseed Syrup"
+and orderDetails.ProductID == products.ProductID
+and orders.orderID == OrderDetails.OrderID
+and customers.CustomerID == orders.CustomerID

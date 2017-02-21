@@ -1,0 +1,6 @@
+H:\2nd Year\Object Oriented Prorgramming\Methods\InheritancePrac\InheritancePrac\InheritancePrac\bin\Debug\InheritancePrac.exe.config
+H:\2nd Year\Object Oriented Prorgramming\Methods\InheritancePrac\InheritancePrac\InheritancePrac\bin\Debug\InheritancePrac.exe
+H:\2nd Year\Object Oriented Prorgramming\Methods\InheritancePrac\InheritancePrac\InheritancePrac\bin\Debug\InheritancePrac.pdb
+H:\2nd Year\Object Oriented Prorgramming\Methods\InheritancePrac\InheritancePrac\InheritancePrac\obj\Debug\InheritancePrac.csprojResolveAssemblyReference.cache
+H:\2nd Year\Object Oriented Prorgramming\Methods\InheritancePrac\InheritancePrac\InheritancePrac\obj\Debug\InheritancePrac.exe
+H:\2nd Year\Object Oriented Prorgramming\Methods\InheritancePrac\InheritancePrac\InheritancePrac\obj\Debug\InheritancePrac.pdb

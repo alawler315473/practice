@@ -1,0 +1,6 @@
+H:\Year 2\Procedural programming\Conditionals\FuntionPrac\functionPractice\FunctionPrac2\FunctionPrac2\bin\Debug\FunctionPrac2.exe.config
+H:\Year 2\Procedural programming\Conditionals\FuntionPrac\functionPractice\FunctionPrac2\FunctionPrac2\bin\Debug\FunctionPrac2.exe
+H:\Year 2\Procedural programming\Conditionals\FuntionPrac\functionPractice\FunctionPrac2\FunctionPrac2\bin\Debug\FunctionPrac2.pdb
+H:\Year 2\Procedural programming\Conditionals\FuntionPrac\functionPractice\FunctionPrac2\FunctionPrac2\obj\Debug\FunctionPrac2.csprojResolveAssemblyReference.cache
+H:\Year 2\Procedural programming\Conditionals\FuntionPrac\functionPractice\FunctionPrac2\FunctionPrac2\obj\Debug\FunctionPrac2.exe
+H:\Year 2\Procedural programming\Conditionals\FuntionPrac\functionPractice\FunctionPrac2\FunctionPrac2\obj\Debug\FunctionPrac2.pdb

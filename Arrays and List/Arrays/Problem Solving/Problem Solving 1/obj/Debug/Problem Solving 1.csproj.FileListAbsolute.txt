@@ -1,0 +1,6 @@
+H:\2nd Year\Arrays and List\intro to Arrays\Problem Solving 1\Problem Solving 1\bin\Debug\Problem Solving 1.exe.config
+H:\2nd Year\Arrays and List\intro to Arrays\Problem Solving 1\Problem Solving 1\bin\Debug\Problem Solving 1.exe
+H:\2nd Year\Arrays and List\intro to Arrays\Problem Solving 1\Problem Solving 1\bin\Debug\Problem Solving 1.pdb
+H:\2nd Year\Arrays and List\intro to Arrays\Problem Solving 1\Problem Solving 1\obj\Debug\Problem Solving 1.csprojResolveAssemblyReference.cache
+H:\2nd Year\Arrays and List\intro to Arrays\Problem Solving 1\Problem Solving 1\obj\Debug\Problem Solving 1.exe
+H:\2nd Year\Arrays and List\intro to Arrays\Problem Solving 1\Problem Solving 1\obj\Debug\Problem Solving 1.pdb

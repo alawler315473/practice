@@ -1,0 +1,6 @@
+H:\Year 2\Arrays and List\intro to Arrays\intro to Arrays\bin\Debug\intro to Arrays.exe.config
+H:\Year 2\Arrays and List\intro to Arrays\intro to Arrays\bin\Debug\intro to Arrays.exe
+H:\Year 2\Arrays and List\intro to Arrays\intro to Arrays\bin\Debug\intro to Arrays.pdb
+H:\Year 2\Arrays and List\intro to Arrays\intro to Arrays\obj\Debug\intro to Arrays.csprojResolveAssemblyReference.cache
+H:\Year 2\Arrays and List\intro to Arrays\intro to Arrays\obj\Debug\intro to Arrays.exe
+H:\Year 2\Arrays and List\intro to Arrays\intro to Arrays\obj\Debug\intro to Arrays.pdb

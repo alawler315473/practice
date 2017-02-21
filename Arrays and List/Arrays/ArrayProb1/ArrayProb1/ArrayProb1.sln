@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayProb1", "ArrayProb1\ArrayProb1.csproj", "{254BE4B1-972E-4419-ABA9-50B10C79420B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape The House", "..\..\..\..\Procedural programming\Conditionals\TextBaseAdventure\EscapeTheHouse\Escape The House\Escape The House\Escape The House.csproj", "{6DBA777D-6B09-47E6-AD78-DC2B09BD8DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254BE4B1-972E-4419-ABA9-50B10C79420B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254BE4B1-972E-4419-ABA9-50B10C79420B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254BE4B1-972E-4419-ABA9-50B10C79420B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254BE4B1-972E-4419-ABA9-50B10C79420B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DBA777D-6B09-47E6-AD78-DC2B09BD8DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBA777D-6B09-47E6-AD78-DC2B09BD8DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DBA777D-6B09-47E6-AD78-DC2B09BD8DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DBA777D-6B09-47E6-AD78-DC2B09BD8DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

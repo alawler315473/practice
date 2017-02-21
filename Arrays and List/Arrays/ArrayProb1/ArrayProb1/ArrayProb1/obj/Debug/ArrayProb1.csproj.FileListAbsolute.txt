@@ -1,0 +1,6 @@
+H:\2nd Year\Arrays and List\intro to Arrays\ArrayProb1\ArrayProb1\ArrayProb1\bin\Debug\ArrayProb1.exe.config
+H:\2nd Year\Arrays and List\intro to Arrays\ArrayProb1\ArrayProb1\ArrayProb1\bin\Debug\ArrayProb1.exe
+H:\2nd Year\Arrays and List\intro to Arrays\ArrayProb1\ArrayProb1\ArrayProb1\bin\Debug\ArrayProb1.pdb
+H:\2nd Year\Arrays and List\intro to Arrays\ArrayProb1\ArrayProb1\ArrayProb1\obj\Debug\ArrayProb1.csprojResolveAssemblyReference.cache
+H:\2nd Year\Arrays and List\intro to Arrays\ArrayProb1\ArrayProb1\ArrayProb1\obj\Debug\ArrayProb1.exe
+H:\2nd Year\Arrays and List\intro to Arrays\ArrayProb1\ArrayProb1\ArrayProb1\obj\Debug\ArrayProb1.pdb

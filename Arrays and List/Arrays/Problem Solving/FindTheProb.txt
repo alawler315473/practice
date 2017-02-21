@@ -1,0 +1,11 @@
+
+Identify and Describe the problem - assignment
+
+4) T9-style Text Messaging:
+ - The problem is; Melman needs to a program that will help him with Texting T9-style.
+
+6) Penguins on Ice:
+ - The problem is; I need to compute the shortest vaild path for the penguins.
+
+7) Practice 1 Zebra Poker:
+ - The problem is; To help Marty determine whether he has a 5-card hand out of his 7 cards.

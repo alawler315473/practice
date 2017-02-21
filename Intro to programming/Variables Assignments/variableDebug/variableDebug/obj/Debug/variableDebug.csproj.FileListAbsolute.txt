@@ -1,0 +1,8 @@
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\variableDebug\variableDebug\bin\Debug\variableDebug.exe.config
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\variableDebug\variableDebug\obj\Debug\variableDebug.csprojResolveAssemblyReference.cache
+H:\Year 2\Intro to programming\Variables Assignments\variableDebug\variableDebug\bin\Debug\variableDebug.exe.config
+H:\Year 2\Intro to programming\Variables Assignments\variableDebug\variableDebug\obj\Debug\variableDebug.csprojResolveAssemblyReference.cache
+H:\Year 2\Intro to programming\Variables Assignments\variableDebug\variableDebug\bin\Debug\variableDebug.exe
+H:\Year 2\Intro to programming\Variables Assignments\variableDebug\variableDebug\bin\Debug\variableDebug.pdb
+H:\Year 2\Intro to programming\Variables Assignments\variableDebug\variableDebug\obj\Debug\variableDebug.exe
+H:\Year 2\Intro to programming\Variables Assignments\variableDebug\variableDebug\obj\Debug\variableDebug.pdb

@@ -1,0 +1,55 @@
+
+Aaron Lawler pm, 9/9/16
+
+
+int myWholeNumber = 12;
+
+float myDecimalNumber = 12.5;
+
+string myWordVariable = "word";
+
+long hereIsAVariable = 95983;
+
+double yayVariables = 1234.1234;
+
+bool hereIsATrueFalse = true;
+
+string anotherVar = "If there will ever be a Minecraft movie, then it would be a blockbuster.";
+
+long var1 = 1337;
+
+float var2 = 545454.23;
+
+char var3 = 'k';
+
+string var4 = "What do you call the security guards outside of Samsung?";
+
+string var5 = "the guardians of the galaxy";
+
+bool var12 = true
+
+long var13 = 123123123132412;
+
+string var6 = "I want a job cleaning mirrors";
+
+string var7 = "it is something I could really see myself doing";
+
+long var14 = 1239847235098723498;
+
+char var15 = '\n'; // \n is a new line character
+
+string var8 ="why are there fences around graveyards?";
+
+string var9 = "people are dying to get in";
+
+float var16 = 123.12351;
+
+long var17 = 1231354;
+
+bool var18 = false;
+
+bool var19 = true;
+
+string var10 = "why did the scarcrow get promoted?";
+
+string var11 = "he was outstanding in his field";

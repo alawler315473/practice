@@ -1,0 +1,6 @@
+H:\2nd Year\Object Oriented Prorgramming\Methods\classExample\classExample\classExample\bin\Debug\classExample.exe.config
+H:\2nd Year\Object Oriented Prorgramming\Methods\classExample\classExample\classExample\bin\Debug\classExample.exe
+H:\2nd Year\Object Oriented Prorgramming\Methods\classExample\classExample\classExample\bin\Debug\classExample.pdb
+H:\2nd Year\Object Oriented Prorgramming\Methods\classExample\classExample\classExample\obj\Debug\classExample.csprojResolveAssemblyReference.cache
+H:\2nd Year\Object Oriented Prorgramming\Methods\classExample\classExample\classExample\obj\Debug\classExample.exe
+H:\2nd Year\Object Oriented Prorgramming\Methods\classExample\classExample\classExample\obj\Debug\classExample.pdb

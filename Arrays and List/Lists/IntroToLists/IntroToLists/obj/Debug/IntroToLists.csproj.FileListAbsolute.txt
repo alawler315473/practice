@@ -1,0 +1,6 @@
+H:\2nd Year\Arrays and List\Lists\IntroToLists\IntroToLists\bin\Debug\IntroToLists.exe.config
+H:\2nd Year\Arrays and List\Lists\IntroToLists\IntroToLists\bin\Debug\IntroToLists.exe
+H:\2nd Year\Arrays and List\Lists\IntroToLists\IntroToLists\bin\Debug\IntroToLists.pdb
+H:\2nd Year\Arrays and List\Lists\IntroToLists\IntroToLists\obj\Debug\IntroToLists.csprojResolveAssemblyReference.cache
+H:\2nd Year\Arrays and List\Lists\IntroToLists\IntroToLists\obj\Debug\IntroToLists.exe
+H:\2nd Year\Arrays and List\Lists\IntroToLists\IntroToLists\obj\Debug\IntroToLists.pdb

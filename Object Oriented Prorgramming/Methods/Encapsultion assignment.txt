@@ -1,0 +1,23 @@
+Fix the access modifiers so that they are as  restrictive as possible and satisfy the requirements below.
+For each change that you make you will need to list it here and explain why you made the change.
+
+You should be able to create an object of each of the classes.
+1)Changed all constructors to public, so all classes can create a class object
+
+The MakeSound method should not be able to be called besides by other methods in one of the derived classes.
+2)changed makeSOund in Animal class to protected, now only acessed by derived classes. 
+
+The DunkFaceInMilk method should only be available to the himalayan class.
+3) changed DunkDaceInMilk to private, only can be acessed by its own class.
+
+all other methods should be accessible everywhere
+4)changed all other methods to public, accessible everywhere
+
+the hasDrugs property of the GermanShepard class should be accesible in its class and its derived classes.
+5)changed hasDrugs to protected bool, making it only accessible to its class or derived class.
+
+all other properties should only be accesible in their class and not their derived classes
+6)xhanged all properties to private, making all class properties less unacessible.
+
+Example:
+	1.Switched BostonTerrier Constructor to public because it needs to be able to be called from another file to create an obect of the BostonTerrier Class

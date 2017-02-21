@@ -1,0 +1,6 @@
+H:\Year 2\Procedural programming\Conditionals\Prime Number - Loops\Prime Numbers - Loops\Prime Numbers - Loops\bin\Debug\Prime Numbers - Loops.exe.config
+H:\Year 2\Procedural programming\Conditionals\Prime Number - Loops\Prime Numbers - Loops\Prime Numbers - Loops\bin\Debug\Prime Numbers - Loops.exe
+H:\Year 2\Procedural programming\Conditionals\Prime Number - Loops\Prime Numbers - Loops\Prime Numbers - Loops\bin\Debug\Prime Numbers - Loops.pdb
+H:\Year 2\Procedural programming\Conditionals\Prime Number - Loops\Prime Numbers - Loops\Prime Numbers - Loops\obj\Debug\Prime Numbers - Loops.exe
+H:\Year 2\Procedural programming\Conditionals\Prime Number - Loops\Prime Numbers - Loops\Prime Numbers - Loops\obj\Debug\Prime Numbers - Loops.pdb
+H:\Year 2\Procedural programming\Conditionals\Prime Number - Loops\Prime Numbers - Loops\Prime Numbers - Loops\obj\Debug\Prime Numbers - Loops.csprojResolveAssemblyReference.cache

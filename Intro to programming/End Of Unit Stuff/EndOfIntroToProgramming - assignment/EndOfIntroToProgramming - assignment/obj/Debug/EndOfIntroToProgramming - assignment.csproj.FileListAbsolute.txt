@@ -1,0 +1,12 @@
+H:\Year 2\Intro to programming\End Project\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\bin\Debug\EndOfIntroToProgramming - assignment.exe.config
+H:\Year 2\Intro to programming\End Project\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\bin\Debug\EndOfIntroToProgramming - assignment.exe
+H:\Year 2\Intro to programming\End Project\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\bin\Debug\EndOfIntroToProgramming - assignment.pdb
+H:\Year 2\Intro to programming\End Project\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\obj\Debug\EndOfIntroToProgramming - assignment.csprojResolveAssemblyReference.cache
+H:\Year 2\Intro to programming\End Project\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\obj\Debug\EndOfIntroToProgramming - assignment.exe
+H:\Year 2\Intro to programming\End Project\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\obj\Debug\EndOfIntroToProgramming - assignment.pdb
+H:\Year 2\Intro to programming\End Of Unit Stuff\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\bin\Debug\EndOfIntroToProgramming - assignment.exe.config
+H:\Year 2\Intro to programming\End Of Unit Stuff\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\obj\Debug\EndOfIntroToProgramming - assignment.exe
+H:\Year 2\Intro to programming\End Of Unit Stuff\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\obj\Debug\EndOfIntroToProgramming - assignment.pdb
+H:\2nd Year\Intro to programming\End Of Unit Stuff\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\bin\Debug\EndOfIntroToProgramming - assignment.exe.config
+H:\2nd Year\Intro to programming\End Of Unit Stuff\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\obj\Debug\EndOfIntroToProgramming - assignment.exe
+H:\2nd Year\Intro to programming\End Of Unit Stuff\EndOfIntroToProgramming - assignment\EndOfIntroToProgramming - assignment\obj\Debug\EndOfIntroToProgramming - assignment.pdb

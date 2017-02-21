@@ -1,0 +1,5 @@
+H:\Year 2\Intro to programming\Converting Data Types\Converting Variable Types - program\Converting Variable Types - program\bin\Debug\Converting Variable Types - program.exe.config
+H:\Year 2\Intro to programming\Converting Data Types\Converting Variable Types - program\Converting Variable Types - program\bin\Debug\Converting Variable Types - program.exe
+H:\Year 2\Intro to programming\Converting Data Types\Converting Variable Types - program\Converting Variable Types - program\bin\Debug\Converting Variable Types - program.pdb
+H:\Year 2\Intro to programming\Converting Data Types\Converting Variable Types - program\Converting Variable Types - program\obj\Debug\Converting Variable Types - program.exe
+H:\Year 2\Intro to programming\Converting Data Types\Converting Variable Types - program\Converting Variable Types - program\obj\Debug\Converting Variable Types - program.pdb

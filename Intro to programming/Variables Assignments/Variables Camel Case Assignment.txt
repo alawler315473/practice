@@ -1,0 +1,24 @@
+
+Aaron Lawler, Variables-camelCase
+
+
+1) valid
+2) Valid
+3) Invalid, variable1
+4) Valid, variable1
+5) valid
+6) valid
+7) valid, hereIsAVariable
+8) valid, whatAboutThisOne
+9) valid, camelCase
+10) valid, 2MenWalkIntoABar
+11) valid
+12) valid
+13) Valid
+14) Invalid, whyDidTheBlondeNurseCarryARedPen
+15) valid, toDrawBlood
+16) Valid, youAreAlmostDone
+17) Invalid, threeMoreToGo
+18) valid, oneLastOne
+19) valid
+20) valid

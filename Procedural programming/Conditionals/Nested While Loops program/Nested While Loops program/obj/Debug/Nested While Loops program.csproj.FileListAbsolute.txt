@@ -1,0 +1,6 @@
+H:\Year 2\Procedural programming\Conditionals\Nested While Loops program\Nested While Loops program\bin\Debug\Nested While Loops program.exe.config
+H:\Year 2\Procedural programming\Conditionals\Nested While Loops program\Nested While Loops program\bin\Debug\Nested While Loops program.exe
+H:\Year 2\Procedural programming\Conditionals\Nested While Loops program\Nested While Loops program\bin\Debug\Nested While Loops program.pdb
+H:\Year 2\Procedural programming\Conditionals\Nested While Loops program\Nested While Loops program\obj\Debug\Nested While Loops program.csprojResolveAssemblyReference.cache
+H:\Year 2\Procedural programming\Conditionals\Nested While Loops program\Nested While Loops program\obj\Debug\Nested While Loops program.exe
+H:\Year 2\Procedural programming\Conditionals\Nested While Loops program\Nested While Loops program\obj\Debug\Nested While Loops program.pdb

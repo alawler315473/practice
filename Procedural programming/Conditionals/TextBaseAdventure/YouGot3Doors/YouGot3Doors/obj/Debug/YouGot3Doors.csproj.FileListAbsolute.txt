@@ -1,0 +1,12 @@
+H:\Year 2\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\bin\Debug\YouGot3Doors.exe.config
+H:\Year 2\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\bin\Debug\YouGot3Doors.exe
+H:\Year 2\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\bin\Debug\YouGot3Doors.pdb
+H:\Year 2\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\obj\Debug\YouGot3Doors.csprojResolveAssemblyReference.cache
+H:\Year 2\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\obj\Debug\YouGot3Doors.exe
+H:\Year 2\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\obj\Debug\YouGot3Doors.pdb
+H:\2nd Year\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\bin\Debug\YouGot3Doors.exe.config
+H:\2nd Year\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\obj\Debug\YouGot3Doors.exe
+H:\2nd Year\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\obj\Debug\YouGot3Doors.pdb
+H:\2nd Year\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\bin\Debug\YouGot3Doors.exe
+H:\2nd Year\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\bin\Debug\YouGot3Doors.pdb
+H:\2nd Year\Procedural programming\Conditionals\TextBaseAdventure\YouGot3Doors\YouGot3Doors\obj\Debug\YouGot3Doors.csprojResolveAssemblyReference.cache
